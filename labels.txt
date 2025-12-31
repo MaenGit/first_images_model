@@ -1,0 +1,3 @@
+0 cut
+1 rook
+2 paper
