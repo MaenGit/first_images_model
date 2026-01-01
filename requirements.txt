@@ -1,7 +1,7 @@
 fastapi
-uvicorn
+uvicorn==0.21.1
 python-multipart
 pillow
 tensorflow==2.4.0
 numpy
-typing_extensions>=4.5.0
+typing_extensions<4.5.0
