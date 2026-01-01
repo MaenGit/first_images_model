@@ -4,3 +4,4 @@ python-multipart
 pillow
 tensorflow==2.4.0
 numpy
+typing_extensions>=4.5.0
